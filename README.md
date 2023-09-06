@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Heeyoung's%20github%20🙇🏻‍♀️&fontSize=40&customColorList=24&fontAlign=40)
 
 **🎓 상명대학교 컴퓨터과학과 졸업** 2017.03 ~ 2021.08 <br/>
-**🖥️ W기업 프론트엔드 개발/기획 엄무 담당** 2021.08 ~ 2023.01 <br/>
+**🖥️ W기업 프론트엔드 개발/기획 업무 담당** 2021.08 ~ 2023.01 <br/>
 **🖤 42Seoul** 2023.02 ~ <br/>
 <br/>
 

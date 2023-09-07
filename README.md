@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Heeyoung's%20github%20🙇🏻‍♀️&fontSize=40&customColorList=24&fontAlign=40)
-
+<br/>
 **🎓 상명대학교 컴퓨터과학과 졸업** 2017.03 ~ 2021.08 <br/>
 **🖥️ W기업 프론트엔드 개발/기획 업무 담당** 2021.08 ~ 2023.01 <br/>
 **🖤 42Seoul** 2023.02 ~ <br/>
 <br/>
+[![wakatime](https://wakatime.com/badge/user/933b81b2-efcb-44ff-a8e8-887d101e5550.svg)](https://wakatime.com/@933b81b2-efcb-44ff-a8e8-887d101e5550)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=asdf016182)](https://solved.ac/asdf016182)
 
 ### 🛠 Tech Stack 🛠
 <div> 
@@ -35,4 +37,4 @@
 
 ![klloo's GitHub stats](https://github-readme-stats.vercel.app/api?username=klloo&show_icons=true&theme=default)
 ![klloo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=klloo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
-[![joojae02's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heeyoung&layout=compact)](https://wakatime.com/@heeyoung)
+![joojae02's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heeyoung&layout=compact)

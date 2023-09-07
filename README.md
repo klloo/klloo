@@ -7,6 +7,8 @@
 [![wakatime](https://wakatime.com/badge/user/933b81b2-efcb-44ff-a8e8-887d101e5550.svg)](https://wakatime.com/@933b81b2-efcb-44ff-a8e8-887d101e5550)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=asdf016182)](https://solved.ac/asdf016182)
 
+![klloo's GitHub stats](https://github-readme-stats.vercel.app/api?username=klloo&show_icons=true&theme=default)
+
 ### 🛠 Tech Stack 🛠
 <div> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -34,7 +36,6 @@
 </div>
 
 <br/><br/>
-
-![klloo's GitHub stats](https://github-readme-stats.vercel.app/api?username=klloo&show_icons=true&theme=default)
 ![joojae02's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heeyoung&layout=compact)
+
 

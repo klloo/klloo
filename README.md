@@ -36,5 +36,7 @@
 <br/><br/>
 
 ![klloo's GitHub stats](https://github-readme-stats.vercel.app/api?username=klloo&show_icons=true&theme=default)
-![klloo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=klloo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+
 ![joojae02's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heeyoung&layout=compact)
+
+![klloo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=klloo&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)

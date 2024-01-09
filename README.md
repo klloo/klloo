@@ -2,7 +2,7 @@
 <br/>
 **🎓 상명대학교 컴퓨터과학과 졸업** 2017.03 ~ 2021.08 <br/>
 **🖥️ W기업 프론트엔드 개발/기획 업무 담당** 2021.08 ~ 2023.01 <br/>
-**🖤 42Seoul** 2023.02 ~ <br/>
+**🖤 42Seoul** 2023.02 ~ 2023.12 <br/>
 <br/>
 [![wakatime](https://wakatime.com/badge/user/933b81b2-efcb-44ff-a8e8-887d101e5550.svg)](https://wakatime.com/@933b81b2-efcb-44ff-a8e8-887d101e5550)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=asdf016182)](https://solved.ac/asdf016182)
